@@ -1,0 +1,9 @@
+{
+    "symbolic_name": "Magacin",
+    "name": "Magacin",
+    "size": 25.2,
+    "category": "kategorija 1",
+    "version": "1.0.0",
+    "enabled": true,
+    "description": "Proširenje koje omugućava rad sa halama i proizvodima. Kao i vođenje jednostavne evidencije"
+}
